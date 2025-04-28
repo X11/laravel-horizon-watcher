@@ -2,6 +2,42 @@
 
 All notable changes to `laravel-horizon-watcher` will be documented in this file.
 
+## 1.1.3 - 2025-04-17
+
+### What's Changed
+
+* Make --reload-config use system env's by @JonathanGawrych in https://github.com/spatie/laravel-horizon-watcher/pull/45
+
+### New Contributors
+
+* @JonathanGawrych made their first contribution in https://github.com/spatie/laravel-horizon-watcher/pull/45
+
+**Full Changelog**: https://github.com/spatie/laravel-horizon-watcher/compare/1.1.2...1.1.3
+
+## 1.1.2 - 2025-04-10
+
+### What's Changed
+
+* Add support to reflect changes in .env when restarting queue workers by @chippisc in https://github.com/spatie/laravel-horizon-watcher/pull/44
+
+### New Contributors
+
+* @chippisc made their first contribution in https://github.com/spatie/laravel-horizon-watcher/pull/44
+
+**Full Changelog**: https://github.com/spatie/laravel-horizon-watcher/compare/1.1.1...1.1.2
+
+## 1.1.1 - 2025-02-21
+
+### What's Changed
+
+* Bump aglipanci/laravel-pint-action from 2.3.1 to 2.4 by @dependabot in https://github.com/spatie/laravel-horizon-watcher/pull/32
+* Bump dependabot/fetch-metadata from 1.6.0 to 2.2.0 by @dependabot in https://github.com/spatie/laravel-horizon-watcher/pull/34
+* Bump dependabot/fetch-metadata from 2.2.0 to 2.3.0 by @dependabot in https://github.com/spatie/laravel-horizon-watcher/pull/38
+* Bump aglipanci/laravel-pint-action from 2.4 to 2.5 by @dependabot in https://github.com/spatie/laravel-horizon-watcher/pull/39
+* Laravel 12.x Compatibility by @laravel-shift in https://github.com/spatie/laravel-horizon-watcher/pull/43
+
+**Full Changelog**: https://github.com/spatie/laravel-horizon-watcher/compare/1.1.0...1.1.1
+
 ## 1.1.0 - 2024-03-04
 
 ### What's Changed
